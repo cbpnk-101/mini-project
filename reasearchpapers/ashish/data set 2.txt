@@ -1,0 +1,99 @@
+input: Rahul Dravid is the new head coach; emotion: No
+
+input: What a heart-stopping victory for India!; emotion: Yes
+
+input: The bails have been dislodged; emotion: No
+
+input: The fans are going wild in the stands; emotion: Yes
+
+input: The leg-spinner is tossing the ball up nicely; emotion: No
+
+input: Pujara is digging in for a long innings; emotion: No
+
+input: Oh dear, a terrible mix-up between the batsmen!; emotion: Yes
+
+input: The ball is not coming onto the bat easily; emotion: No
+
+input: A sensational diving catch by Hardik Pandya!; emotion: Yes
+
+input: The over has been quite expensive; emotion: Yes
+
+input: Shami is running in with pace and aggression; emotion: No
+
+input: The floodlights are illuminating the ground; emotion: No
+
+input: Sachin Tendulkar acknowledges the cheering crowd; emotion: No
+
+input: The batsmen are finding it hard to score boundaries; emotion: Yes
+
+input: The third umpire is checking the replay; emotion: No
+
+input: It's an absolute cliffhanger of a match!; emotion: Yes
+
+input: The grass on the pitch looks worn out; emotion: No
+
+input: Pant has played a breathtaking innings!; emotion: Yes
+
+input: The fielders are alert and agile today; emotion: No
+
+input: The DRS has overturned the on-field decision; emotion: No
+
+input: Incredible scenes! They've snatched victory from the jaws of defeat!; emotion: Yes
+
+input: The scoring rate has slowed down considerably; emotion: No
+
+input: What a lightning-fast stumping by the wicketkeeper!; emotion: Yes
+
+input: The required run rate is increasing steadily; emotion: No
+
+input: The bowler is trying to bowl a knuckleball; emotion: No
+
+input: It's a shocking performance from the batting lineup; emotion: Yes
+
+input: The sky is overcast with dark clouds; emotion: No
+
+input: Suryakumar Yadav is playing a dazzling knock; emotion: Yes
+
+input: The batsmen are looking for quick singles; emotion: No
+
+input: The off-spinner is getting some drift; emotion: No
+
+input: A brilliant direct hit from the deep!; emotion: Yes
+
+input: The innings is building momentum; emotion: No
+
+input: He's absolutely hammered that over the ropes!; emotion: Yes
+
+input: The powerplay overs are underway; emotion: No
+
+input: The bowler is showing signs of fatigue; emotion: No
+
+input: What a stunning comeback by the bowling side!; emotion: Yes
+
+input: The ball is seaming around nicely; emotion: No
+
+input: Dhawan is playing a steady innings at the top; emotion: No
+
+input: The tension is palpable in the stadium; emotion: Yes
+
+input: The sightscreen is being adjusted; emotion: No
+
+input: He's gifted his wicket away with a silly shot!; emotion: Yes
+
+input: The mid-innings report is being presented; emotion: No
+
+input: Virat Kohli has reached another milestone!; emotion: Yes
+
+input: The fielders are positioned strategically; emotion: No
+
+input: The bowler is experimenting with different deliveries; emotion: No
+
+input: It's an unbelievably close contest!; emotion: Yes
+
+input: The ball is gripping on the surface; emotion: No
+
+input: Rohit Sharma played a captain's innings; emotion: Yes
+
+input: The boundary ropes are clearly marked; emotion: No
+
+input: He's been caught behind! A disappointing end to his innings!; emotion: Yes
