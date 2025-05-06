@@ -1,0 +1,101 @@
+Alright, here's yet another distinct set of 50 examples following the same format:
+
+input: Starc is known for his express pace; emotion: No
+
+input: What a devastating blow for the batting team!; emotion: Yes
+
+input: The middle stump was uprooted; emotion: No
+
+input: The crowd went ballistic after the winning runs; emotion: Yes
+
+input: The off-spinner is trying to bowl a carrom ball; emotion: No
+
+input: Smith is looking solid in his defense; emotion: No
+
+input: Oh no, a dropped sitter in the outfield!; emotion: Yes
+
+input: The ball is holding up on the slow pitch; emotion: No
+
+input: A glorious cover drive for four by Babar!; emotion: Yes
+
+input: The running between the wickets has been sluggish; emotion: Yes
+
+input: Rabada is charging in to bowl; emotion: No
+
+input: The toss has been won by the home team; emotion: No
+
+input: Ganguly's aggressive captaincy led them to victory; emotion: Yes
+
+input: The batsmen are finding it difficult to score off the spinners; emotion: Yes
+
+input: The on-field umpires are having a discussion; emotion: No
+
+input: It's an unbelievably tight game going down to the wire!; emotion: Yes
+
+input: The pitch has a greenish tinge; emotion: No
+
+input: Pollard has hit a massive six into the stands!; emotion: Yes
+
+input: The fielders are anticipating every move; emotion: No
+
+input: The Hawk-Eye technology is being consulted; emotion: No
+
+input: Incredible! He's pulled off a stunning one-handed catch!; emotion: Yes
+
+input: The scoring rate is crawling along; emotion: No
+
+input: What a breathtaking piece of fielding on the boundary rope!; emotion: Yes
+
+input: The required run rate is soaring; emotion: No
+
+input: The bowler is trying to bowl a slower bouncer; emotion: No
+
+input: It's a woeful display of batting; emotion: Yes
+
+input: The sun is beating down on the ground; emotion: No
+
+input: Williamson has played a masterful innings; emotion: Yes
+
+input: The batsmen are trying to nudge it around for singles; emotion: No
+
+input: The left-arm spinner is getting some turn and bounce; emotion: No
+
+input: A fantastic effort in the deep to save runs!; emotion: Yes
+
+input: The innings is progressing steadily towards the end; emotion: No
+
+input: He's absolutely smashed that for a towering six!; emotion: Yes
+
+input: The death overs are proving to be exciting; emotion: No
+
+input: The bowler is looking determined to take a wicket; emotion: No
+
+input: What a dramatic final over we're witnessing!; emotion: Yes
+
+input: The ball is nipping around off the seam; emotion: No
+
+input: Finch is trying to build a solid platform; emotion: No
+
+input: The tension is almost unbearable in the stadium; emotion: Yes
+
+input: The sightscreen is being checked by the umpire; emotion: No
+
+input: He's thrown his wicket away with a rash shot!; emotion: Yes
+
+input: The highlights of the first innings are being shown; emotion: No
+
+input: Virat Kohli has played an unforgettable innings!; emotion: Yes
+
+input: The fielders are positioned in a defensive setup; emotion: No
+
+input: The bowler is varying his line and length; emotion: No
+
+input: It's an absolutely thrilling encounter between two top teams!; emotion: Yes
+
+input: The ball is seaming both ways; emotion: No
+
+input: Smith has anchored the innings brilliantly; emotion: Yes
+
+input: The boundary ropes are clearly marked with advertisements; emotion: No
+
+input: He's been caught at gully! A soft dismissal!; emotion: Yes
