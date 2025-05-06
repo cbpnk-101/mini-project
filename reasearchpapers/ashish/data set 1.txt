@@ -1,50 +1,99 @@
- Kohli smashed a brilliant six over long-on; emotion: Yes
- The umpire signaled a wide ball; emotion: No
- Bumrah's yorker clean bowled the batsman; emotion: Yes
- The crowd roared with excitement after the boundary; emotion: Yes
- Ashwin is appealing for an LBW; emotion: No
- Rohit Sharma is looking confident at the crease; emotion: No
- Oh no, Jadeja dropped a crucial catch!; emotion: Yes
- The ball is spinning sharply off the pitch; emotion: No
- What a magnificent century by KL Rahul!; emotion: Yes
- The fielding has been sloppy today; emotion: Yes
- Siraj is steaming in to bowl the next over; emotion: No
- The rain has stopped play; emotion: No
- Dhoni finishes off in style with a massive hit!; emotion: Yes
- The batsmen are struggling against the pace attack; emotion: Yes
- The bowler is walking back to his mark; emotion: No
- It's a nail-biting finish to the match!; emotion: Yes
- The pitch is looking dry and cracked; emotion: No
- Pandya has hit another towering six!; emotion: Yes
- The fielding unit is looking sharp today; emotion: No
- The review has been unsuccessful; emotion: No
-Unbelievable! He's been caught on the boundary!; emotion: Yes
-The innings is progressing steadily; emotion: No
-What a stunning catch in the slips!; emotion: Yes
-The run rate is climbing steadily; emotion: No
-The bowler is trying to vary his pace; emotion: No
-It's a disappointing dismissal for the opener; emotion: Yes
-The outfield looks lush green; emotion: No
-Samson has played a fantastic innings; emotion: Yes
-The batsmen are rotating the strike well; emotion: No
-The spinner is getting some good turn; emotion: No
-A brilliant piece of fielding saved runs; emotion: Yes
- The scoreboard is ticking along; emotion: No
-He's absolutely smashed that for four!; emotion: Yes
-The fielding restrictions are now over; emotion: No
-The bowler is looking tired; emotion: No
- What a dramatic turn of events!; emotion: Yes
- The ball is swinging in the air; emotion: No
- Gill has played a composed innings; emotion: No
-The pressure is building on the batting side; emotion: Yes
-The sightscreen is behind the bowler; emotion: No
-He's thrown his wicket away carelessly!; emotion: Yes
-The innings break has just started; emotion: No
-Yadav has hit a blistering half-century!; emotion: Yes
-The fielding is spread out across the ground; emotion: No
-The bowler is changing his approach; emotion: No
-It's an absolute thriller of a contest!; emotion: Yes
-The ball is keeping low; emotion: No
-Iyer has played a crucial knock under pressure; emotion: Yes
-The fielding circle is marked clearly; emotion: No
-He's hit it straight to the fielder! What a waste!; emotion: Yes
+input: Kohli smashed a brilliant six over long-on; emotion: Yes
+
+input: The umpire signaled a wide ball; emotion: No
+
+input: Bumrah's yorker clean bowled the batsman; emotion: Yes
+
+input: The crowd roared with excitement after the boundary; emotion: Yes
+
+input: Ashwin is appealing for an LBW; emotion: No
+
+input: Rohit Sharma is looking confident at the crease; emotion: No
+
+input: Oh no, Jadeja dropped a crucial catch!; emotion: Yes
+
+input: The ball is spinning sharply off the pitch; emotion: No
+
+input: What a magnificent century by KL Rahul!; emotion: Yes
+
+input: The fielding has been sloppy today; emotion: Yes
+
+input: Siraj is steaming in to bowl the next over; emotion: No
+
+input: The rain has stopped play; emotion: No
+
+input: Dhoni finishes off in style with a massive hit!; emotion: Yes
+
+input: The batsmen are struggling against the pace attack; emotion: Yes
+
+input: The bowler is walking back to his mark; emotion: No
+
+input: It's a nail-biting finish to the match!; emotion: Yes
+
+input: The pitch is looking dry and cracked; emotion: No
+
+input: Pandya has hit another towering six!; emotion: Yes
+
+input: The fielding unit is looking sharp today; emotion: No
+
+input: The রিভিউ has been unsuccessful; emotion: No
+
+input: Unbelievable! He's been caught on the boundary!; emotion: Yes
+
+input: The innings is progressing steadily; emotion: No
+
+input: What a stunning catch in the slips!; emotion: Yes
+
+input: The run rate is climbing steadily; emotion: No
+
+input: The bowler is trying to vary his pace; emotion: No
+
+input: It's a disappointing dismissal for the opener; emotion: Yes
+
+input: The outfield looks lush green; emotion: No
+
+input: Samson has played a fantastic innings; emotion: Yes
+
+input: The batsmen are rotating the strike well; emotion: No
+
+input: The spinner is getting some good turn; emotion: No
+
+input: A brilliant piece of fielding saved runs; emotion: Yes
+
+input: The scoreboard is ticking along; emotion: No
+
+input: He's absolutely smashed that for four!; emotion: Yes
+
+input: The fielding restrictions are now over; emotion: No
+
+input: The bowler is looking tired; emotion: No
+
+input: What a dramatic turn of events!; emotion: Yes
+
+input: The ball is swinging in the air; emotion: No
+
+input: Gill has played a composed innings; emotion: No
+
+input: The pressure is building on the batting side; emotion: Yes
+
+input: The sightscreen is behind the bowler; emotion: No
+
+input: He's thrown his wicket away carelessly!; emotion: Yes
+
+input: The innings break has just started; emotion: No
+
+input: Yadav has hit a blistering half-century!; emotion: Yes
+
+input: The fielding is spread out across the ground; emotion: No
+
+input: The bowler is changing his approach; emotion: No
+
+input: It's an absolute thriller of a contest!; emotion: Yes
+
+input: The ball is keeping low; emotion: No
+
+input: Iyer has played a crucial knock under pressure; emotion: Yes
+
+input: The fielding circle is marked clearly; emotion: No
+
+input: He's hit it straight to the fielder! What a waste!; emotion: Yes
