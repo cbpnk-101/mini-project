@@ -1,0 +1,101 @@
+Okay, I understand. Here's another set of 50 different examples following the same format:
+
+input: Bumrah is known for his lethal yorkers; emotion: No
+
+input: What a heart-wrenching loss for the team!; emotion: Yes
+
+input: The stumps were shattered by the pace bowler; emotion: No
+
+input: The crowd erupted in cheers after the six; emotion: Yes
+
+input: The spinner is trying to deceive the batsman with flight; emotion: No
+
+input: Williamson is a picture of concentration at the crease; emotion: No
+
+input: Oh no, a run-out at a crucial moment!; emotion: Yes
+
+input: The ball is skidding off the wet outfield; emotion: No
+
+input: A magnificent straight drive for four by Kohli!; emotion: Yes
+
+input: The fielding has been quite sloppy in the outfield; emotion: Yes
+
+input: Archer is getting ready for his run-up; emotion: No
+
+input: The match has been delayed due to bad light; emotion: No
+
+input: Dhoni's tactical brilliance wins them the game!; emotion: Yes
+
+input: The batsmen are struggling to pick the slower balls; emotion: Yes
+
+input: The fielding captain is setting the field; emotion: No
+
+input: It's an incredibly tense situation out there!; emotion: Yes
+
+input: The pitch is showing signs of wear and tear; emotion: No
+
+input: Maxwell has smashed another huge six!; emotion: Yes
+
+input: The fielders are backing up well; emotion: No
+
+input: The third umpire is reviewing the catch; emotion: No
+
+input: Unbelievable! He's hit the last ball for a six to win!; emotion: Yes
+
+input: The innings is progressing at a slow pace; emotion: No
+
+input: What an acrobatic save on the boundary!; emotion: Yes
+
+input: The asking rate is becoming quite steep; emotion: No
+
+input: The bowler is trying to bowl around the wicket; emotion: No
+
+input: It's a disappointing shot selection from the batsman; emotion: Yes
+
+input: The ground staff are covering the pitch; emotion: No
+
+input: Babar Azam has played a classy innings; emotion: Yes
+
+input: The batsmen are looking for quick singles between the wickets; emotion: No
+
+input: The leg-spinner is getting some significant turn; emotion: No
+
+input: A stunning piece of athleticism in the field!; emotion: Yes
+
+input: The scoreboard is slowly ticking over; emotion: No
+
+input: He's absolutely creamed that through the covers!; emotion: Yes
+
+input: The strategic timeout has been called; emotion: No
+
+input: The bowler is trying to bowl a bouncer; emotion: No
+
+input: What a remarkable turnaround in the match!; emotion: Yes
+
+input: The ball is swinging prodigiously; emotion: No
+
+input: Warner is looking aggressive at the top of the order; emotion: No
+
+input: The pressure is mounting on the fielding side; emotion: Yes
+
+input: The sightscreen is positioned behind the striker; emotion: No
+
+input: He's thrown his bat in frustration after getting out!; emotion: Yes
+
+input: The post-match presentation is about to begin; emotion: No
+
+input: Rohit Sharma has scored a magnificent double century!; emotion: Yes
+
+input: The fielders are in catching positions; emotion: No
+
+input: The bowler is changing ends; emotion: No
+
+input: It's an absolutely captivating contest between bat and ball!; emotion: Yes
+
+input: The ball is bouncing awkwardly; emotion: No
+
+input: Root has played a resilient innings under pressure; emotion: Yes
+
+input: The boundary markers are clearly visible; emotion: No
+
+input: He's been caught in the slips! A poor shot!; emotion: Yes
